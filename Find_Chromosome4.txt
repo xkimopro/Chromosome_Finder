@@ -1,0 +1,3 @@
+Instructions on File Analysis of UNKNOW_CHROM4
+Chromosome UNKNOW_CHROM4 can be found by taking the sequence of UNKNOW_CHROM3 + UNKNOW_CHROM2 then this is the new sequence of UNKNOW_CHROM4 the one shown in the Fasta file is incomplete and should be discarded
+To then find the actual name of UNKNOW_CHROM4 perform a content analysis on the new sequence UNKNOW_CHROM3 + UNKNOW_CHROM2 then do a similarity search on known organisms and find the name via the most similar one.
